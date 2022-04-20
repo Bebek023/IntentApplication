@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Intent_10119270</string>
+    <string name="login">Login</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="register">Belum punya akun? daftar disini</string>
+    <string name="registration">Register New Account</string>
+    <string name="Register">Register</string>
+    <string name="Back">Already have an account? Click here to log in</string>
+    <string name="welcome">Welcome! This is the main activity</string>
+    <string name="profile">Profile Page</string>
+    <string name="Nim">10119270</string>
+    <string name="Nama">Albanna Rahmadani Sulistyo</string>
+    <string name="Kelas">IF - 7</string>
+    <string name="Desc">Seorang mahasiswa unikom yang menyukai kucing dan bebek</string>
+    <string name="logout">logout</string>
+</resources>
