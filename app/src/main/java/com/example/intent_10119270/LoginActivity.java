@@ -8,6 +8,8 @@ import android.view.View;
 
 public class LoginActivity extends AppCompatActivity {
 
+//    2022/04/20 10119270 Albanna Rahmadani Sulistyo IF-7
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -8,6 +8,8 @@ import android.os.Handler;
 import androidx.annotation.Nullable;
 
 public class SplashActivity extends Activity {
+
+    //    2022/04/20 10119270 Albanna Rahmadani Sulistyo IF-7
     Handler handler;
 
     @Override

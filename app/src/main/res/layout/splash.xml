@@ -6,6 +6,8 @@
     android:gravity="center"
     android:background="@color/purple_500">
 
+    <!--    2022/04/20 10119270 Albanna Rahmadani Sulistyo IF-7-->
+
     <ImageView
         android:id="@+id/logo_id"
         android:layout_width="250dp"

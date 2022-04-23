@@ -7,6 +7,8 @@
     android:orientation="vertical"
     android:layout_margin="16dp">
 
+    <!--    2022/04/20 10119270 Albanna Rahmadani Sulistyo IF-7-->
+
         <ImageView
             android:id="@+id/imageView"
             android:layout_width="153dp"
